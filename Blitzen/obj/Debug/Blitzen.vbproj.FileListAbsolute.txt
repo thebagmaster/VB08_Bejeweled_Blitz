@@ -1,0 +1,10 @@
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Blitzen\Blitzen\bin\Debug\Blitzen.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Blitzen\Blitzen\bin\Debug\Blitzen.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Blitzen\Blitzen\bin\Debug\Blitzen.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Blitzen\Blitzen\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Blitzen\Blitzen\obj\Debug\Blitzen.frmBlitzen.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Blitzen\Blitzen\obj\Debug\Blitzen.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Blitzen\Blitzen\obj\Debug\Blitzen.vbproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Blitzen\Blitzen\obj\Debug\Blitzen.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Blitzen\Blitzen\obj\Debug\Blitzen.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Blitzen\Blitzen\obj\Debug\Blitzen.pdb
